@@ -1,1 +1,1 @@
-# Python.AA-exercises
+# Python-beginner-exercises
